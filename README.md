@@ -143,7 +143,7 @@ The dataset also covers **24 active stores**, **8,842 unique customers**, and **
 
 ## Key KPIs
 
-![Core KPIs](screenshots/core_kpis.png)
+![Core KPIs](screenshots/core_kpis..png)
 ---
 
 # Section 2 — Intermediate Business Analysis
