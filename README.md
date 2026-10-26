@@ -173,6 +173,9 @@ A total of **2,618 customers** generated revenue above the average customer reve
 
 The customer base is heavily concentrated in the low-value segment under the project-defined thresholds. Only a small number of customers fall into the high-value segment, making them important candidates for retention and relationship-management strategies.
 
+## Customer Segmentation
+
+![Customer Segments](screenshots/customer_segments.png)
 ---
 
 # Section 3 — CTE & Subquery Analysis
@@ -228,6 +231,7 @@ The final cumulative revenue matches the overall revenue KPI, providing a useful
 | **Mexico West** | Store 1 | **56,396.78** |
 | **Central West** | Store 14 | **9,324.94** |
 
+
 ---
 
 # Section 5 — Returns & Business Performance Analysis
@@ -276,6 +280,8 @@ Return rates are relatively low compared with overall sales volume, but stores a
 
 Revenue among the leading products is relatively close, suggesting that no single product overwhelmingly dominates product-level revenue.
 
+
+
 ## Top Customers by Revenue
 
 1. **Ida Rodriguez** — 2,235.43
@@ -292,6 +298,10 @@ Revenue among the leading products is relatively close, suggesting that no singl
 4. **Store 11 — Portland:** 115,334.62
 5. **Store 24 — San Diego:** 111,378.46
 
+## Top Stores by Revenue
+
+![Top Stores](screenshots/top_stores.png)
+
 ## Revenue by Region
 
 | Region | Revenue |
@@ -306,6 +316,9 @@ Revenue among the leading products is relatively close, suggesting that no singl
 
 The **North West** region is the dominant revenue contributor in the dataset.
 
+## Regional Revenue Performance
+
+![Regional Revenue](screenshots/Revinue_by Region.png)
 ---
 
 # Profitability Highlights
