@@ -141,6 +141,9 @@ The business generated approximately **1.76M in revenue** and **1.05M in estimat
 
 The dataset also covers **24 active stores**, **8,842 unique customers**, and **1,559 products**, providing enough breadth for multi-dimensional SQL analysis.
 
+## Key KPIs
+
+![Core KPIs](screenshots/core_kpis.png)
 ---
 
 # Section 2 — Intermediate Business Analysis
