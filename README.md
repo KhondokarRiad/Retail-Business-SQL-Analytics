@@ -231,7 +231,9 @@ The final cumulative revenue matches the overall revenue KPI, providing a useful
 | **Mexico West** | Store 1 | **56,396.78** |
 | **Central West** | Store 14 | **9,324.94** |
 
+## Advanced SQL Highlight
 
+![Advanced SQL](screenshots/advanced_sql.png)
 ---
 
 # Section 5 — Returns & Business Performance Analysis
@@ -318,7 +320,6 @@ The **North West** region is the dominant revenue contributor in the dataset.
 
 ## Regional Revenue Performance
 
-![Regional Revenue](screenshots/Revinue_by Region.png)
 ---
 
 # Profitability Highlights
